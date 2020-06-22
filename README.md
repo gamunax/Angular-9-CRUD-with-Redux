@@ -1,27 +1,50 @@
-# CrudAppRedux
+# Angular 9 Crud con Redux
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
+Es un crud (Create, Read, Update and Delete) usando Angular 9 y Firebase
 
-## Development server
+## Comenzando 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-## Code scaffolding
+### Pre-requisitos 📋
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+_Este demo tiene como entorno lo siguiente_
 
-## Build
+```
+NodeJS 12.17
+Angular CLI 9.1.5
+@ngrx/effects 9.2.0
+@ngrx/store 9.2.0
+@ngrx/store-devtools 9.2.0
+Bootstrap 4.5
+Concurrently 5.2.0
+Json-server 0.16.1
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### Instalación 🔧
+_Instalación de las dependencias (node_modules)_
 
-## Running unit tests
+```
+npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+_Deploy local_
 
-## Running end-to-end tests
+```
+npm start
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+_Así se veria cuando se ejecute_
 
-## Further help
+![captura](https://user-images.githubusercontent.com/8071610/85343460-83678780-b4b2-11ea-9889-deae12d6f553.
+PNG)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Construido con 🛠️
+* [Angular](https://angular.io/) - El framework web usado
+* [Redux](https://es.redux.js.org/) - Manejado de estados
+* [Firebase](https://firebase.google.com/) - Manejador de base de datos
+* [Bootstrap](https://getbootstrap.com/) - Framework para el manejo de interfaces
+
+## Autores ✒️
+
+* **Jan Pierre Sánchez** - *Trabajo Inicial*
