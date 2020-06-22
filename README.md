@@ -1,6 +1,6 @@
 # Angular 9 Crud con Redux
 
-Es un crud (Create, Read, Update and Delete) usando Angular 9 y Firebase
+Es un crud (Create, Read, Update and Delete) usando Angular 9 y Redux
 
 ## Comenzando 🚀
 
@@ -42,7 +42,7 @@ PNG)
 ## Construido con 🛠️
 * [Angular](https://angular.io/) - El framework web usado
 * [Redux](https://es.redux.js.org/) - Manejado de estados
-* [Firebase](https://firebase.google.com/) - Manejador de base de datos
+* [JSON-Server] API REST fake
 * [Bootstrap](https://getbootstrap.com/) - Framework para el manejo de interfaces
 
 ## Autores ✒️
