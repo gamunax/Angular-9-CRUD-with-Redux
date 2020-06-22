@@ -36,8 +36,7 @@ npm start
 
 _Así se veria cuando se ejecute_
 
-![captura](https://user-images.githubusercontent.com/8071610/85343460-83678780-b4b2-11ea-9889-deae12d6f553.
-PNG)
+![captura](https://user-images.githubusercontent.com/8071610/85343460-83678780-b4b2-11ea-9889-deae12d6f553.PNG)
 
 ## Construido con 🛠️
 * [Angular](https://angular.io/) - El framework web usado
