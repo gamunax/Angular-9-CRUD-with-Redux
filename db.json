@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "name": "Luis Mario",
+      "age": 25,
+      "email": "janpierre@email.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "pepe",
+      "age": 19,
+      "email": "pepe@email.com"
+    },
+    {
+      "name": "Jose Jan Pierre Sanchez Manosalva",
+      "age": 66,
+      "email": "gamunaxx@gmail.com",
+      "id": 1592865008561
+    },
+    {
+      "name": "Pepito",
+      "age": 26,
+      "email": "pepito@mail.com",
+      "id": 1592865079040
+    }
+  ]
+}

@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+.overlay{
+    background-color: rgba(0,0,0, 0.5) !important;
+    position:fixed !important;
+    top:0 !important;
+    z-index: 999;
+    left:0 !important;
+    width: 100% !important;
+    height: 100%;
+}
+
+a > .btn {
+    cursor: pointer;
+}
+
+div.modal {
+    height: auto;
+    z-index: 999;
+    color: #000;
+    animation:movercaja 0.4s ease-out forwards;
+}
+
+@keyframes movercaja
+{ from {top:-10px; opacity: 1;}
+    to {top:100px; opacity: 1}
+}
+
+@-webkit-keyframes movercaja
+{ from {top:-10px; opacity: 1;}
+    to {top:100px; opacity: 1}
+}
+
+#filterIcon {
+    position: relative;
+    z-index: 1;
+    left: -25px;
+    top: 8px;
+    color: #7B7B7B;
+}
+
+input[type=text]{
+    margin: 2px !important;
+}
+
+input[type=text]:focus{
+    outline-width: 0;
+}
+
+input[id=filter]{
+    width: 30% !important;
+}
