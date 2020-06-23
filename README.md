@@ -38,6 +38,7 @@ npm start
 localhost:4200 => aplicacion de angular
 localhost:3000 => server fake
 localhost:3000/usuarios => api rest fake (file: db.json que se encuentra en la raíz)
+```
 
 _Así se veria cuando se ejecute_
 
