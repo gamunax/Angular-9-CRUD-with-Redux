@@ -34,9 +34,15 @@ _Deploy local_
 npm start
 ```
 
+```
+localhost:4200 => aplicacion de angular
+localhost:3000 => server fake
+localhost:3000/usuarios => api rest fake (file: db.json que se encuentra en la raíz)
+
 _Así se veria cuando se ejecute_
 
 ![captura](https://user-images.githubusercontent.com/8071610/85343460-83678780-b4b2-11ea-9889-deae12d6f553.PNG)
+
 
 ## Construido con 🛠️
 * [Angular](https://angular.io/) - El framework web usado
